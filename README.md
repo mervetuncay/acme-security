@@ -106,7 +106,7 @@ A: Tools are fine for research, but the analysis must be your own. Over-reliance
 A: Absolutely! Research MITRE ATT&CK, OWASP, and security frameworks. This mirrors real-world work.
 
 **Q: What if I can't finish in time?**  
-A: Submissions must be received by **Monday at 09:00 (Istanbul time)**. Plan accordingly.
+A: Submissions must be received by **10/11/2025 Monday at 09:00 (Istanbul time)**. Plan accordingly.
 
 **Q: Is there a single "correct" answer?**  
 A: No. We evaluate your approach, reasoning, and professionalism. Multiple solutions are valid.
@@ -115,7 +115,7 @@ A: No. We evaluate your approach, reasoning, and professionalism. Multiple solut
 A: Use whatever you're comfortable with. Excel, Python, grep, text editors - all are fine. We evaluate your analysis, not your tools.
 
 **Q: How long does the evaluation take?**  
-A: Submissions are due **Monday at 09:00 (Istanbul time)**. Results will be announced shortly after.
+A: Submissions are due **10/11/2025 Monday at 09:00 (Istanbul time)**. Results will be announced shortly after.
 
 **Q: Can I update my submission after submitting?**  
 A: Yes, if you submit via Pull Request, you can push updates before the deadline. We evaluate the latest version.
